@@ -1,4 +1,5 @@
-# MPICode
-qsub command to run 
+# Useful qsub commands 
 		
        qsub runnit
+
+       qstat -u kakitone
